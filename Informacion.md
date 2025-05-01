@@ -8,5 +8,7 @@
 
 **Ciudad:** Ciudad de México
 
+**Biografía:** Estudiante de Ingeniería con interés en desarrollo, automatización y sistemas embebidos.
+
 
 
