@@ -4,3 +4,6 @@
 
 - 🗿 **Escultura y arte** – Me apasiona esculpir con las manos y explorar distintas formas de arte físico, como tallado, modelado en arcilla y creación de figuras que expresen emociones o ideas.
 
+- 💍 **Diseño de joyería** – Me interesa el proceso artesanal y estético detrás de la creación de piezas pequeñas pero significativas.
+
+
