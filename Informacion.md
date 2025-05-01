@@ -1,16 +1,40 @@
-# Información Personal
+# 🌙 Acerca de mi
 
-**Nombre:** Jessica Stephanie Garcia Monjaraz.
+## ✨ Nombre : **Stephanie Monjaraz**
+Pero también puedes decirme Jessi, o blue. 💙
 
-**Edad:** 23 años.
+## 🐦 Formación Académica
+- Estudiante de Ingeniería Eléctrica y Electrónica en la UNAM
+- Especialidad en Control y Robótica
+- Cursos complementarios: Git & GitHub, Bash, C, Python.
 
-**Correo electrónico:** stephanie.monjaraz.eng@gmail.com
+## 🐳 Habilidades Técnicas
+- Control de sistemas, microcontroladores, electrónica analógica/digital
+- Programación: Bash, Python, C, LaTeX
+- Git y gestión de proyectos en GitHub
+- Diseño de PCB, prototipado electrónico
 
-**Ciudad:** Ciudad de México
+## 🌊  Intereses
+- Robótica móvil
+- Automatización y sistemas embebidos
+- Proyectos sociales y accesibilidad tecnológica
+- Exploración espacial y sensores aplicados
 
-**Biografía:** Estudiante de Ingeniería con interés en desarrollo, automatización y sistemas embebidos.
+## 🌐 Contacto
+- GitHub: [github.com/StephMonjaraz](https://github.com/StephMonjaraz)
+- Correo: stephanie.monjaraz.eng@gmail.com
 
-**GitHub:** [github.com/StephMonjaraz](https://github.com/StephMonjaraz)  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mí...
 
+```javascript
+const jessieBlue = {
+  pronombres: "ella" ,
+  código: ["C", "Python", "Bash", "JavaScript", "LaTeX"],
+  herramientas: ["Linux", "Git", "GitHub", "Proteus", "VS Code", "ROS"],
+  arquitectura: ["microcontroladores", "sistemas embebidos", "automatización"],
+  preguntameSobre: ["psicoanálisis", "libros", "esculturas", "arte", "joyería", "perfumes"]
+  eseñame: ["ajedraz", "libros", "canciones", "arte", "joyería", "perfumes"]
+}
+```
 
 
