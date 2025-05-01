@@ -1,13 +1,80 @@
-# Mis Temas Favoritos (No Académicos)
+<div style="background-color:#001f3f; height:10px; width:100%;"></div>
 
-## 🎨 Intereses personales (más allá de la ingeniería)
+<h2 align="center">💙 Hola, soy Stephanie Monjaraz</h2>
 
-- 🗿 **Escultura y arte** – Me apasiona esculpir con las manos y explorar distintas formas de arte físico, como tallado, modelado en arcilla y creación de figuras que expresen emociones o ideas.
 
-- 💍 **Diseño de joyería** – Me interesa el proceso artesanal y estético detrás de la creación de piezas pequeñas pero significativas.
 
-- 🧠 **Psiquiatría** – Me atrae la complejidad de la mente humana, especialmente en el contexto del bienestar emocional y la neurodiversidad.
+<h3 align="center" style="color:#d3d3d3;">📘 Exploraciones, Inspiraciones y Preferencias Personales</h3>
 
-- 🧩 **Análisis de patrones** – Me intriga cómo ciertos comportamientos, formas o datos se repiten o se ocultan en lo cotidiano, y cómo pueden interpretarse desde distintas perspectivas (visuales, matemáticas o emocionales).
+### 🌀 En lo que pienso constantemente
 
-- 👠 **Diseño de moda** – Me interesa aprender a crear mis propios bolsos y zapatos, explorando el diseño desde una perspectiva funcional, estética y hecha a mano.
+<table>
+  <tr>
+    <td align="center">
+      <img src="Img/1.jpeg" width="200"><br>
+      <sub>Jean Paul Gaultier Spring 2025 Couture Collection</sub>
+    </td>
+    <td align="center">
+      <img src="Img/silver_tie.png" width="200"><br>
+      <sub>Silver Tie Guard</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Img/naturaleza.png" width="220"><br>
+      <sub>Inspiración natural</sub>
+    </td>
+    <td align="center">
+      <img src="Img/maravillas.png" width="200"><br>
+      <sub>Las maravillas del Hôtel de Soubise</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎶 Música que disfruto últimamente
+
+- 🎵 La petite fille de la mer
+<td align="center">
+      <img src="Img/La petite fille de la mer.jpg" width="300"><br>
+    </td>
+
+- 🎵 Ma meilleure Ennemie
+- 🎵 Flamme à lunettes
+- 🎵 Robbers - The 1975
+
+---
+
+### 🎮 Videojuegos Favoritos
+
+- 🎮 Little Nightmares
+
+<td align="center">
+      <img src="Img/LittleN.jpg" width="400"><br>
+    </td>
+
+
+- 🎮 Dead by Daylight
+- 🎮 Inside
+- 🎮 Resident Evil (en general)
+
+---
+
+### 📺 Series que recomiendo
+
+- 📺 Arcane
+<td align="center">
+      <img src="Img/Arcane Jinx.jpeg" width="300"><br>
+    </td>
+
+
+- 📺 The Alienist
+- 📺 The Glory
+- 📺 Anne with an E
+
+---
+
+### 🫐 ¡Ayúdame a completar lo que falta!
+
+💙 Si tienes recomendaciones para música, videojuegos, series o cualquier cosa que pueda interesarme, estaré feliz de conocerlas. 
