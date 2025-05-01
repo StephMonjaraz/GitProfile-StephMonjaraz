@@ -8,3 +8,4 @@
 
 **Proyecto 4:** ShellBoxPlay – Terminal interactiva en Bash con autenticación y reproductor MP3.
 
+**Proyecto 5:** Análisis de redes neuronales para navegación autónoma de robots móviles
