@@ -1,7 +1,7 @@
 <h2 align="center">💙 Hola, soy Stephanie Monjaraz</h2>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNieGh3dnA2MTMwYjBraGFrYzBoZTd3enBtZHMzaWlqdnZ0aDVzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWtVYDHIxgGgE/giphy.gif" width="80">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNieGh3dnA2MTMwYjBraGFrYzBoZTd3enBtZHMzaWlqdnZ0aDVzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWtVYDHIxgGgE/giphy.gif" width="500">
 </p>
 
 ---
