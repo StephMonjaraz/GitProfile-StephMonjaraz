@@ -8,3 +8,4 @@
 
 - 🧠 **Psiquiatría** – Me atrae la complejidad de la mente humana, especialmente en el contexto del bienestar emocional y la neurodiversidad.
 
+- 🧩 **Análisis de patrones** – Me intriga cómo ciertos comportamientos, formas o datos se repiten o se ocultan en lo cotidiano, y cómo pueden interpretarse desde distintas perspectivas (visuales, matemáticas o emocionales).
