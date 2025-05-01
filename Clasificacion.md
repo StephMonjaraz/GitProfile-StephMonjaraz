@@ -6,4 +6,5 @@
 
 - 💍 **Diseño de joyería** – Me interesa el proceso artesanal y estético detrás de la creación de piezas pequeñas pero significativas.
 
+- 🧠 **Psiquiatría** – Me atrae la complejidad de la mente humana, especialmente en el contexto del bienestar emocional y la neurodiversidad.
 
