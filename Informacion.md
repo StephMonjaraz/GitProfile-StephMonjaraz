@@ -33,7 +33,7 @@ const jessieBlue = {
   herramientas: ["Linux", "Git", "GitHub", "Proteus", "VS Code", "ROS"],
   arquitectura: ["microcontroladores", "sistemas embebidos", "automatización"],
   preguntameSobre: ["psicoanálisis", "libros", "esculturas", "arte", "joyería", "perfumes"]
-  eseñame: ["ajedraz", "libros", "canciones", "arte", "joyería", "perfumes"]
+  eseñame: ["ajedrez", "libros", "canciones", "arte", "pinturas"]
 }
 ```
 
