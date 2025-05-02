@@ -80,3 +80,4 @@
 💙 Si tienes recomendaciones para música, videojuegos, series o cualquier cosa que pueda interesarme, estaré feliz de conocerlas. 
 
 1. Hola! Soy **Eduardo.** Yo te recomiendo la pelicula de *Lost in translation*. Considero que es una pelicula muy especial ya que personalmente verla fue una experiencia muy padre e inhumana.
+2. Hola soy **Camila**, te recomiendo la serie Grey's Anatomy:))
