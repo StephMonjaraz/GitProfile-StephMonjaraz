@@ -82,3 +82,5 @@
 1. Hola! Soy **Eduardo.** Yo te recomiendo la pelicula de *Lost in translation*. Considero que es una pelicula muy especial ya que personalmente verla fue una experiencia muy padre e inhumana.
 2. Hola soy **Camila**, te recomiendo la serie Grey's Anatomy:))
 3. Hola soy **Jair** y a mí tambíen me encanta el videojuego de Little Nightmares. Te recomiendo que juegues Hollow Knight.4. Hola, soy **Karla** te recomiendo como música la banda:*Alice in Chains*. PD: que bonitos md <3
+4. **Vale** te recomiendo que veas  Bridgerton.Me gustaria conocer tu pinterest!
+
