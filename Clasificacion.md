@@ -84,4 +84,5 @@
 3. Hola soy **Jair** y a mí tambíen me encanta el videojuego de Little Nightmares. Te recomiendo que juegues Hollow Knight.4. Hola, soy **Karla** te recomiendo como música la banda:*Alice in Chains*. PD: que bonitos md <
 4. **Vale** te recomiendo que veas  Bridgerton.Me gustaria conocer tu pinterest!
 5. Hola soy **Carlo** tienes un gran gusto en video juego, yo te recomendaria que probaras el CupHead es un juego interesante. 
+6. Hola hola soy **Frida** y que bonito te quedó tu archivo.
 
